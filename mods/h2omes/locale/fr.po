@@ -1,0 +1,202 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-04 10:28+0200\n"
+"PO-Revision-Date: 2017-08-04 10:03+0200\n"
+"Last-Translator: fat115 <fat115@framasoft.org>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: init.lua
+msgid "open(@1, 'w') failed: @2"
+msgstr "impossible d'ouvrir %s en écriture : %s"
+
+#. Translators: @1 is home_type
+#: init.lua
+msgid "@1 set!"
+msgstr "@1 est défini !"
+
+#: init.lua
+msgid "Teleporting to spawn..."
+msgstr "Téléportation vers le spawn..."
+
+#: init.lua
+msgid "ERROR: "
+msgstr "ERREUR : "
+
+#: init.lua
+msgid "The spawn point is not set!"
+msgstr "Le point de spawn n'est pas défini !"
+
+#: init.lua
+msgid "Teleported to @1!"
+msgstr "Téléporté vers @1 !"
+
+#: init.lua
+msgid "Teleporting to player @1"
+msgstr "Téléportation vers le joueur @1"
+
+#: init.lua
+msgid "Sorry, teleport between 2 worlds(real/nether) is not allowed!"
+msgstr "La téléportation entre 2 mondes (réel/nether) n'est pas autorisée !"
+
+#: init.lua
+msgid "ERROR: No position to player!"
+msgstr "ERREUR, pas de coordonnées pour ce joueur !"
+
+#: init.lua
+msgid "@1 sent you their position to teleport"
+msgstr "@1 vous a envoyé sa position pour vous téléporter à lui"
+
+#: init.lua
+msgid "Your position has been sent to @1"
+msgstr "Votre position a été envoyée à @1"
+
+#: init.lua
+msgid "Error: @1 already received a request. please try again later."
+msgstr "Erreur : @1 a déjà reçu une requête. Veuillez réessayez plus tard."
+
+#: init.lua
+msgid "Home Settings"
+msgstr "Vos emplacements"
+
+#: init.lua
+msgid "TO SPAWN"
+msgstr "SPAWN"
+
+#: init.lua
+msgid "To Spawn"
+msgstr "Aller au Spawn"
+
+#: init.lua
+msgid "No spawn set"
+msgstr "Spawn non défini"
+
+#: init.lua
+msgid "TO HOME"
+msgstr "MAISON"
+
+#: init.lua
+msgid "Set Home"
+msgstr "Placer Maison"
+
+#: init.lua
+msgid "To Home"
+msgstr "Retour Maison"
+
+#: init.lua
+msgid "Home no set"
+msgstr "L'emplacement de votre Maison n'est pas défini"
+
+#: init.lua
+msgid "TO PIT"
+msgstr "LIEU"
+
+#: init.lua
+msgid "Set Pit"
+msgstr "Placer Lieu"
+
+#: init.lua
+msgid "To Pit"
+msgstr "Retour Lieu"
+
+#: init.lua
+msgid "Pit no set"
+msgstr "L'emplacement de votre Lieu n'est pas défini"
+
+#: init.lua
+msgid "TO PLAYER"
+msgstr "JOUEURS"
+
+#: init.lua
+#, lua-format
+msgid "To %s"
+msgstr "Vers %s"
+
+#: init.lua
+msgid "To Player"
+msgstr "Aller au joueur"
+
+#: init.lua
+msgid "No request from player"
+msgstr "Aucun joueur n'a effectué de requête"
+
+#: init.lua
+msgid "SEND MY POS TO PLAYER"
+msgstr "ENVOYER MA POSITION AU JOUEUR"
+
+#: init.lua
+msgid "No player, try later"
+msgstr "Aucun joueur, ré-essayez plus tard"
+
+#: init.lua
+msgid "refresh"
+msgstr "Rafraichir"
+
+#: init.lua
+msgid "Send To"
+msgstr "Envoyer"
+
+#: init.lua
+msgid "Close"
+msgstr "Fermer"
+
+#: init.lua
+msgid "Can use /sethome, /home, /setpit and /pit"
+msgstr "Peut utiliser /sethome, /home, /setpit et /pit"
+
+#: init.lua
+msgid "Teleport a player to the defined spawnpoint"
+msgstr "Téléporter un joueur vers le point de spawn"
+
+#: init.lua
+msgid "ERROR: No spawn point is set on this server!"
+msgstr "ERREUR, aucun point de spawn n'est pas défini sur ce serveur !"
+
+#: init.lua
+msgid "Teleport you to your home point"
+msgstr "Vous téléporter vers votre Maison"
+
+#: init.lua
+msgid "Set a home using /sethome"
+msgstr "Définir la position de votre Maison avec /sethome"
+
+#: init.lua
+msgid "Set your home point"
+msgstr "Définir la position de votre Maison"
+
+#: init.lua
+msgid "Teleport you to your pit point"
+msgstr "Vous téléporter vers votre Lieu"
+
+#: init.lua
+msgid "Set a pit using /setpit"
+msgstr "Définir la position votre Lieu avec /setpit"
+
+#: init.lua
+msgid "Set your pit point"
+msgstr "Définir la position votre Lieu"
+
+#: init.lua
+msgid "My Homes"
+msgstr "Mes lieux"
+
+#: init.lua
+#, fuzzy
+msgid "Go Home"
+msgstr "Aller à la Maison"
+
+#: init.lua
+msgid "[h2omes] Loaded."
+msgstr "[h2omes] chargé."

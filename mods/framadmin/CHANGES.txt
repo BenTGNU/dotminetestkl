@@ -1,0 +1,20 @@
+0.6.0
+- ajout de raccourcis /tp, /check et /?
+- clean auto des unknown blocs
+- export de l'historique du chat
+
+0.5.0
+- ajout des commandes /ville et /mairie
+
+0.4.0
+- Intégration de Lavapriv
+- Ajout du priv carts
+
+0.3.0
+- ajout des commandes /who et /quiz
+
+0.2.0
+- Split des fichiers nodes, crafts
+
+0.1.0
+-Initial realease

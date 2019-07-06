@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-14 07:42+0200\n"
+"PO-Revision-Date: 2017-05-14 07:50+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"Last-Translator: fat115 <fat115@framasoft.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#: functions.lua
+msgid "All exceptions: @1"
+msgstr "Toutes les exceptions : @1"
+
+#: functions.lua
+msgid "The player '@1' did not join yet."
+msgstr "Le joueur '@1' n'a pas encore rejoint le jeu."
+
+#: functions.lua
+msgid "Following players share an IP: @1"
+msgstr "Les joueurs suivants partagent une IP : @1"
+
+#: functions.lua
+msgid "Added an exception!"
+msgstr "Ajout d'une exception !"
+
+#: functions.lua
+msgid "The player '@1' is not on the whitelist."
+msgstr "Le joueur '@1' n'est pas dans la liste blanche."
+
+#: functions.lua
+msgid "Removed an exception!"
+msgstr "Enlèvement d'une exception !"
+
+#: init.lua
+msgid "Get the features of names_per_ip"
+msgstr "Voir les fonctionnalités de names_per_ip"
+
+#: init.lua
+msgid "Available commands: "
+msgstr "Commandes disponibles :"
+
+#: init.lua
+msgid "Get all accounts of <name>: /ipnames whois <name>"
+msgstr "Voir tous les comptes de <nom> : /ipnames whois <nom>"
+
+#: init.lua
+msgid "List all exceptions:        /ipnames list"
+msgstr "Lister toutes les exceptions:        /ipnames list"
+
+#: init.lua
+msgid "Remove/add an exception:    /ipnames (un)ignore <name>"
+msgstr "Enlever/ajouter une exception :    /ipnames (un)ignore <nom>"
+
+#: init.lua
+msgid "Error: Please check again '/ipnames' for correct usage."
+msgstr "Erreur : Merci de vérifier la commande '/ipnames' pour un usage correct."
+
+#: init.lua
+msgid "Error: No known argument for #1 '"
+msgstr "Erreur : Pas d'argument connu pour #1 '"
+
+#: init.lua
+msgid ""
+"\n"
+"You exceeded the limit of accounts.\n"
+"You already own the following accounts:\n"
+msgstr ""
+"\n"
+"Vous avez dépassé la limite du nombre de comptes.\n"
+"Vous possédez déjà les comptes suivants :\n"

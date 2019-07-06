@@ -1,0 +1,3 @@
+Commands:
+Set your home with /sethome say /home to teleport back
+See who are online /status

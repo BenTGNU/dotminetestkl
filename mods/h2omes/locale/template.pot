@@ -1,0 +1,200 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-04 10:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: init.lua
+msgid "open(@1, 'w') failed: @2"
+msgstr ""
+
+#. Translators: @1 is home_type
+#: init.lua
+msgid "@1 set!"
+msgstr ""
+
+#: init.lua
+msgid "Teleporting to spawn..."
+msgstr ""
+
+#: init.lua
+msgid "ERROR: "
+msgstr ""
+
+#: init.lua
+msgid "The spawn point is not set!"
+msgstr ""
+
+#: init.lua
+msgid "Teleported to @1!"
+msgstr ""
+
+#: init.lua
+msgid "Teleporting to player @1"
+msgstr ""
+
+#: init.lua
+msgid "Sorry, teleport between 2 worlds(real/nether) is not allowed!"
+msgstr ""
+
+#: init.lua
+msgid "ERROR: No position to player!"
+msgstr ""
+
+#: init.lua
+msgid "@1 sent you their position to teleport"
+msgstr ""
+
+#: init.lua
+msgid "Your position has been sent to @1"
+msgstr ""
+
+#: init.lua
+msgid "Error: @1 already received a request. please try again later."
+msgstr ""
+
+#: init.lua
+msgid "Home Settings"
+msgstr ""
+
+#: init.lua
+msgid "TO SPAWN"
+msgstr ""
+
+#: init.lua
+msgid "To Spawn"
+msgstr ""
+
+#: init.lua
+msgid "No spawn set"
+msgstr ""
+
+#: init.lua
+msgid "TO HOME"
+msgstr ""
+
+#: init.lua
+msgid "Set Home"
+msgstr ""
+
+#: init.lua
+msgid "To Home"
+msgstr ""
+
+#: init.lua
+msgid "Home no set"
+msgstr ""
+
+#: init.lua
+msgid "TO PIT"
+msgstr ""
+
+#: init.lua
+msgid "Set Pit"
+msgstr ""
+
+#: init.lua
+msgid "To Pit"
+msgstr ""
+
+#: init.lua
+msgid "Pit no set"
+msgstr ""
+
+#: init.lua
+msgid "TO PLAYER"
+msgstr ""
+
+#: init.lua
+#, lua-format
+msgid "To %s"
+msgstr ""
+
+#: init.lua
+msgid "To Player"
+msgstr ""
+
+#: init.lua
+msgid "No request from player"
+msgstr ""
+
+#: init.lua
+msgid "SEND MY POS TO PLAYER"
+msgstr ""
+
+#: init.lua
+msgid "No player, try later"
+msgstr ""
+
+#: init.lua
+msgid "refresh"
+msgstr ""
+
+#: init.lua
+msgid "Send To"
+msgstr ""
+
+#: init.lua
+msgid "Close"
+msgstr ""
+
+#: init.lua
+msgid "Can use /sethome, /home, /setpit and /pit"
+msgstr ""
+
+#: init.lua
+msgid "Teleport a player to the defined spawnpoint"
+msgstr ""
+
+#: init.lua
+msgid "ERROR: No spawn point is set on this server!"
+msgstr ""
+
+#: init.lua
+msgid "Teleport you to your home point"
+msgstr ""
+
+#: init.lua
+msgid "Set a home using /sethome"
+msgstr ""
+
+#: init.lua
+msgid "Set your home point"
+msgstr ""
+
+#: init.lua
+msgid "Teleport you to your pit point"
+msgstr ""
+
+#: init.lua
+msgid "Set a pit using /setpit"
+msgstr ""
+
+#: init.lua
+msgid "Set your pit point"
+msgstr ""
+
+#: init.lua
+msgid "My Homes"
+msgstr ""
+
+#: init.lua
+msgid "Go Home"
+msgstr ""
+
+#: init.lua
+msgid "[h2omes] Loaded."
+msgstr ""

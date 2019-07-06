@@ -1,0 +1,6 @@
+[server]
+
+mine.kidslab.education
+30000
+
+

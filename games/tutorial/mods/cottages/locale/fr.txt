@@ -1,0 +1,12 @@
+sleeping mat = tapis de sol
+straw layer = couche de paille
+simple wooden bench = banc en bois simple
+# “table” as in “furniture”
+table
+wagon wheel = roue de wagon
+black roof = toit noir
+black roof connector = connecteur de toit noir
+black flat roof = toit plat noir
+red roof = toit rouge
+red roof connector = connecteur de toit rouge
+red flat roof = toit plat rouge

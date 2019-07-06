@@ -1,0 +1,100 @@
+# Translation by Peppy (Nov 2016)
+
+### crafts.lua ###
+Coconut Milk = Lait de coco
+Raw Coconut = Noix de coco crue
+Acorn Muffin batter = Pâte pour gâteau aux glands
+Acorn Muffin = Gâteau aux glands
+Roasted Spruce Cone Nuts = Pignons d'épicéa grillés
+Roasted Pine Cone Nuts = Pignons de pin grillés
+Roasted Fir Cone Nuts = Pignon de sapin grillés
+
+### node_defs.lua ###
+Beech Tree Trunk = Tronc de hêtre
+Apple Tree Trunk = Tronc de pommier
+Oak Tree Trunk = Tronc de chêne
+Giant Sequoia Trunk = Tronc de séquoia géant
+Birch Tree Trunk = Tronc de bouleau
+Palm Tree Trunk = Tronc de palmier
+Spruce Tree Trunk = Tronc d'épicéa
+Pine Tree Trunk = Tronc de pin
+Willow Tree Trunk = Tronc de saule
+Rubber Tree Trunk = Tronc de caoutchouc
+Jungle Tree Trunk = Tronc d'arbre exotique
+Douglas Fir Trunk = Tronc de pin d'Oregon
+Beech Tree Planks = Tronc de hêtre
+Apple Tree Planks = Planches de pommier
+Oak Tree Planks = Planches de chêne
+Giant Sequoia Planks = Planches de séquoia géant
+Birch Tree Planks = Planches de bouleau
+Palm Tree Planks = Planches de palmier
+Spruce Tree Planks = Planches d'épicéa
+Pine Tree Planks = Planches de pin
+Willow Tree Planks = Planches de saule
+Rubber Tree Planks = Planches de caoutchouc
+Jungle Tree Planks = Planches d'arbre de la jungle 
+Douglas Fir Planks = Planches de pin d'Oregon
+Beech Tree Sapling = Pousse de hêtre
+Apple Tree Sapling = Pousse de pommier
+Oak Tree Sapling = Pousse de chêne
+Giant Sequoia Sapling = Pousse de séquoia géant
+Birch Tree Sapling = Pousse de bouleau
+Palm Tree Sapling = Pousse de palmier
+Spruce Tree Sapling = Pousse d'épicéa
+Pine Tree Sapling = Pousse de pin
+Willow Tree Sapling = Pousse de saule
+Rubber Tree Sapling = Pousse de caoutchouc
+Jungle Tree Sapling = Pousse d'arbre exotique
+Douglas Fir Sapling = Pousse de pin d'Oregon
+Beech Tree Leaves = Feuilles de hêtre
+Apple Tree Leaves = Feuilles de pommier
+Oak Tree Leaves = Feuilles de chêne
+Giant Sequoia Leaves = Feuilles de séquoia géant
+Birch Tree Leaves = Feuilles de bouleau
+Palm Tree Leaves = Feuilles de palmier
+Spruce Tree Leaves = Feuilles de épicéa
+Pine Tree Leaves = Aiguilles de pin
+Willow Tree Leaves = Feuilles de saule
+Rubber Tree Leaves = Feuilles de caoutchouc
+Jungle Tree Leaves = Feuilles d'arbre exotique
+Douglas Fir Leaves = Aiguilles de pin d'Oregon
+
+Acorn = Gland
+Coconut = Noix de coco
+Spruce Cone = Cône d'épicéa
+Pine Cone = Pomme de pin
+Fir Cone = Cône de sapin
+Jungle Sapling = Pousse d'arbre exotique
+Jungle Tree Leaves (Yellow) = Feuilles d'arbre exotique (jaunes)
+Jungle Tree Leaves (Red) = Feuilles d'arbre exotique (rouges)
+Douglas Fir Leaves (Bright) = Aiguilles de pin d'Oregon (claires)
+Rubber Tree Trunk (Empty) = Caoutchouc
+
+Coconut Flower = Fleur de cocotier
+
+Cedar Cone = Cône de cèdre 
+Cedar Tree Leaves = Aiguilles de cèdre
+Cedar Tree Planks = Planches de cèdre
+Cedar Tree Sapling = Pousse de cèdre
+Cedar Tree Trunk = Tronc de cèdre
+Roasted Cedar Cone Nuts = Pignons de cèdre grillés
+
+Date Palm Tree Trunk = Tronc de palmier dattier
+Date Palm Tree Leaves = Feuilles de palmier dattier
+Date Palm Tree Sapling = Pousse de palmier dattier
+Date Palm Tree Planks = Planches de palmier dattier
+Date Flowers = Fleurs de palmier dattier
+Date Stem = Régime de dattes
+Dates = Dattes
+Date = Datte
+Date & nut snack = En-cas aux dattes et pignons
+Date-nut cake batter = Pâte pour gâteau aux dattes et pignons
+Date-nut cake = Gâteau aux dattes et pignons
+Date-nut energy bar = Barre énergétique aux dattes et pignons
+
+Poplar Tree Leaves = Feuilles de peuplier
+Poplar Tree Trunk = Tronc de peuplier
+Poplar Tree Planks = Planches de peuplier
+Poplar Tree Sapling = Pousse de peuplier
+
+[Moretrees] Loaded (2013-02-11) = [Moretrees] Chargé (2013-02-11)

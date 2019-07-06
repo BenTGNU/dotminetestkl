@@ -1,0 +1,101 @@
+extended_attributes = """
+null
+
+"""
+breath = 11
+pitch = 23.5
+version = 1
+name = mimigames
+hp = 14
+yaw = 273.61
+position = (-2998.76,190.66,158.57)
+PlayerArgsEnd
+List main 32
+Width 0
+Item scifi_mobs:bfg
+Item moreores:pick_mithril
+Item default:axe_mese
+Item default:meselamp 67
+Item default:apple 90
+Item default:acacia_sapling 99
+Item default:pine_sapling 99
+Item moretrees:fir_sapling 95
+Item mobs:meat_raw
+Item trunks:moss
+Item default:apple
+Item default:snowblock 4
+Item default:cobble 10
+Item default:snow
+Item default:meselamp
+Item default:coal_lump 3
+Item default:ice 34
+Empty
+Item scifi_mobs:cell 99
+Item scifi_mobs:cell 99
+Item scifi_mobs:cell 17
+Item default:dirt 96
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 26
+EndInventoryList
+List armor 6
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+EndInventory

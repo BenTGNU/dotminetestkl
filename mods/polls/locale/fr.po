@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-04 15:24+0200\n"
+"PO-Revision-Date: 2017-08-04 15:26+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"Last-Translator: fat115 <fat115@framasoft.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#: init.lua
+#, lua-format
+msgid "%s (owned by %s)"
+msgstr "%s (propriété de %s)"
+
+#: init.lua
+msgid "Question"
+msgstr "Question"
+
+#: init.lua
+msgid "option1"
+msgstr "Réponse 1"
+
+#: init.lua
+msgid "option2"
+msgstr "Réponse 2"
+
+#: init.lua
+msgid "option3"
+msgstr "Réponse 3"
+
+#: init.lua
+msgid "option4"
+msgstr "Réponse 4"
+
+#: init.lua
+msgid "option5"
+msgstr "Réponse 5"
+
+#: init.lua
+msgid "Save"
+msgstr "Enregistrer"
+
+#: init.lua
+msgid "Submit"
+msgstr "Soumettre"
+
+#: init.lua
+msgid "Close"
+msgstr "Fermer"
+
+#: init.lua
+msgid "Vote"
+msgstr "Voter"
+
+#: init.lua
+msgid "This voting machine is not ready yet."
+msgstr "Le panneau de sondage n'est pas encore prêt."
+
+#: init.lua
+msgid "Poll poster"
+msgstr "Panneau de sondage"
+
+#: init.lua
+#, lua-format
+msgid "Unconfigured Vote Box. (owned by %s)"
+msgstr "Panneau de sondage non configuré (propriété de %s)"
+
+#: init.lua
+msgid "Type your question here."
+msgstr "Saisissez votre question ici."

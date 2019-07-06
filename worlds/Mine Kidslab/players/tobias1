@@ -1,0 +1,101 @@
+extended_attributes = """
+null
+
+"""
+breath = 11
+pitch = 6.09
+version = 1
+name = tobias1
+hp = 20
+yaw = 282.96
+position = (-3064.55,157.5,221.25)
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:snowblock 35
+Item moreores:pick_mithril 1 1237
+Item moreores:pick_mithril
+Item scifi_mobs:bfg
+Item default:axe_mese 1 10260
+Item scifi_mobs:lasercutter
+Item moretrees:rubber_tree_sapling 49
+Item default:apple 98
+Item default:pine_tree 45
+Item default:pine_sapling 10
+Item trunks:moss
+Item default:snow 3
+Item moretrees:palm_sapling 63
+Item moretrees:palm_sapling
+Item moretrees:palm_sapling 4
+Item moretrees:palm_sapling
+Item default:dirt 2
+Item default:cobble 27
+Item scifi_mobs:blaster
+Item default:axe_mese
+Item moreores:pick_mithril
+Item moretrees:poplar_sapling 99
+Item default:axe_mese
+Item trunks:moss 5
+Empty
+Empty
+Empty
+Item scifi_mobs:blaster
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 25
+EndInventoryList
+List armor 6
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+EndInventory

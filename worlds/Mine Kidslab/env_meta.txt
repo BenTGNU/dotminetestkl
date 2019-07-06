@@ -1,0 +1,7 @@
+day_count = 3
+lbm_introduction_times = :doors:replace_doors_door_glass~0;:doors:replace_doors_door_obsidian_glass~0;:doors:replace_doors_door_steel~0;:doors:replace_doors_door_wood~0;:farming:start_nodetimer_cotton~0;:farming:start_nodetimer_wheat~0;default:3dtorch~0;default:convert_saplings_to_node_timer~0;default:upgrade_chest_locked_v2~0;default:upgrade_chest_v2~0;homedecor:convert_bathroom_tiles~0;homedecor:convert_beds~0;homedecor:convert_chairs~0;homedecor:convert_curtains~0;homedecor:convert_desk_lamps~0;homedecor:convert_lighting~0;homedecor:convert_shutters~0;homedecor:recolor_bathroom_tiles~0;homedecor:recolor_lighting~0;lavalamp:convert~0;lavalamp:recolor~0;lrfurn:convert_armchairs~0;lrfurn:convert_longsofas~0;lrfurn:convert_sofas~0;moretrees:convert_existing_cocos_palms_to_regrow_coconuts~0;moretrees:restart_coconut_regrow_timer~0;moretrees:restart_dates_regrow_timer~0;pipeworks:rotate_valves_flowsensors~0;streets:update_asphalt_workshop~0;xpanes:gen2~0;
+game_time = 3380
+last_clear_objects_time = 0
+time_of_day = 14448
+lbm_introduction_times_version = 1
+EnvArgsEnd

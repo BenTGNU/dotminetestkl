@@ -1,0 +1,101 @@
+extended_attributes = """
+null
+
+"""
+breath = 11
+pitch = 11.68
+version = 1
+name = Emma-the-best
+hp = 20
+yaw = 309.17
+position = (-3080.15,203.71,201.3)
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:apple 93
+Item moreores:pick_mithril 1 180
+Item default:axe_mese
+Item bonemeal:bone 8
+Item scifi_mobs:lasercutter 1 2000
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 31
+EndInventoryList
+List armor 6
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+EndInventory

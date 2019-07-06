@@ -1,0 +1,363 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-01 18:53+0200\n"
+"PO-Revision-Date: 2017-08-01 18:53+0200\n"
+"Last-Translator: Mahmutelmas06@hotmail.com\n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: api.lua register.lua
+msgid "Crafting"
+msgstr "Üretim"
+
+#: api.lua
+msgid "Mixing"
+msgstr ""
+
+#: api.lua
+#, fuzzy
+msgid "Cooking"
+msgstr "Pişirme"
+
+#: api.lua
+msgid "Digging"
+msgstr ""
+
+#: api.lua
+msgid "Digging (by chance)"
+msgstr ""
+
+#: bags.lua
+msgid "Bags"
+msgstr "Çantalarım"
+
+#: bags.lua
+msgid "Bag @1"
+msgstr "@1. Çanta"
+
+#: bags.lua
+msgid "Small Bag"
+msgstr "Küçük Çanta"
+
+#: bags.lua
+msgid "Medium Bag"
+msgstr "Çanta"
+
+#: bags.lua
+msgid "Large Bag"
+msgstr "Büyük Çanta"
+
+#: group.lua
+msgid " and "
+msgstr ""
+
+#: internal.lua
+msgid "First page"
+msgstr "İlk Sayfa"
+
+#: internal.lua
+msgid "Back three pages"
+msgstr "3 Sayfa Gerile"
+
+#: internal.lua
+msgid "Back one page"
+msgstr "Geri"
+
+#: internal.lua
+msgid "Forward one page"
+msgstr "İleri"
+
+#: internal.lua
+msgid "Forward three pages"
+msgstr "3 Sayfa İlerile"
+
+#: internal.lua
+msgid "Last page"
+msgstr "Son Sayfa"
+
+#: internal.lua
+msgid "Search"
+msgstr "Ara"
+
+#: internal.lua
+msgid "Reset search and display everything"
+msgstr ""
+
+#: internal.lua
+msgid "No matching items"
+msgstr "Eşleşme yok"
+
+#: internal.lua
+msgid "No matches."
+msgstr ""
+
+#: internal.lua
+msgid "Page: @1 of @2"
+msgstr "Sayfa:@1 dan @2"
+
+#: internal.lua
+msgid "Filter"
+msgstr "Süzgeç"
+
+#: register.lua
+msgid "Can use the creative inventory"
+msgstr "Yaratıcı envanteri kullanabilir"
+
+#: register.lua
+msgid ""
+"Forces Unified Inventory to be displayed in Full mode if Lite mode is "
+"configured globally"
+msgstr ""
+
+#: register.lua
+msgid "Crafting Grid"
+msgstr "Üretim tablosu"
+
+#: register.lua
+msgid "Crafting Guide"
+msgstr "Kılavuz"
+
+#: register.lua
+msgid "Set home position"
+msgstr ""
+
+#: register.lua
+msgid "Home position set to: @1"
+msgstr "Yeni eviniz: @1"
+
+#: register.lua
+msgid "You don't have the \"home\" privilege!"
+msgstr ""
+
+#: register.lua
+msgid "Go home"
+msgstr ""
+
+#: register.lua
+msgid "Set time to day"
+msgstr ""
+
+#: register.lua
+msgid "Time of day set to 6am"
+msgstr "Saat 06:00 olarak ayarlandı"
+
+#: register.lua
+msgid "You don't have the settime privilege!"
+msgstr "Saati düzenleme yetkiniz yok! "
+
+#: register.lua
+msgid "Set time to night"
+msgstr ""
+
+#: register.lua
+msgid "Time of day set to 9pm"
+msgstr "Saat 19:00 olarak ayarlandı"
+
+#: register.lua
+msgid "Clear inventory"
+msgstr ""
+
+#: register.lua
+msgid ""
+"This button has been disabled outside of creative mode to prevent accidental "
+"inventory trashing.\n"
+"Use the trash slot instead."
+msgstr "Yaratıcı modu dışında iken bu tuş kullanılamaz. "
+
+#: register.lua
+msgid "Inventory cleared!"
+msgstr "Envanter temizlendi! "
+
+#: register.lua
+msgid "Trash:"
+msgstr "Çöp"
+
+#: register.lua
+msgid "Refill:"
+msgstr "Doldur"
+
+#. Translators: @1 = group name (e.g. wool)
+#: register.lua
+msgid "Any item belonging to the @1 group"
+msgstr ""
+
+#. Translators: @1 = List of “and”-concatenated group names
+#: register.lua
+msgid "Any item belonging to the groups @1"
+msgstr ""
+
+#: register.lua
+msgid "Recipe @1 of @2"
+msgstr "@1 dan @2 tarifi"
+
+#: register.lua
+msgid "Usage @1 of @2"
+msgstr ""
+
+#: register.lua
+msgid "No recipes"
+msgstr ""
+
+#: register.lua
+msgid "No usages"
+msgstr ""
+
+#: register.lua
+msgid "Result:"
+msgstr "Çıktı:"
+
+#: register.lua
+msgid "Ingredient:"
+msgstr ""
+
+#: register.lua
+msgid "Show next recipe"
+msgstr ""
+
+#: register.lua
+msgid "Show next usage"
+msgstr ""
+
+#: register.lua
+msgid "Show previous recipe"
+msgstr ""
+
+#: register.lua
+msgid "Show previous usage"
+msgstr ""
+
+#. Translators: @1 is for description and @2 for item name.
+#: register.lua
+msgid "@1 (@2)"
+msgstr ""
+
+#: register.lua
+msgid "Give me:"
+msgstr ""
+
+#. Translators: Shown for huge crafting recipes; try to keep the line length short and use multiple line breaks as needed
+#: register.lua
+msgid ""
+"This recipe is too\n"
+"large to be displayed."
+msgstr ""
+
+#: register.lua
+msgid "To craft grid:"
+msgstr ""
+
+#: register.lua
+msgid "All"
+msgstr "Tümü"
+
+#: waypoints.lua
+msgid "White"
+msgstr "Beyaz"
+
+#: waypoints.lua
+msgid "Yellow"
+msgstr "Sarı"
+
+#: waypoints.lua
+msgid "Red"
+msgstr "Kırmızı"
+
+#: waypoints.lua
+msgid "Green"
+msgstr "Yeşil"
+
+#: waypoints.lua
+msgid "Blue"
+msgstr "Mavi"
+
+#: waypoints.lua
+msgid "Waypoints"
+msgstr "Konum Noktaları"
+
+#: waypoints.lua
+msgid "Select Waypoint #@1"
+msgstr ""
+
+#: waypoints.lua
+msgid "Waypoint @1"
+msgstr ""
+
+#: waypoints.lua
+msgid "Set waypoint to current location"
+msgstr "Bulunduğun noktayı işaretle"
+
+#: waypoints.lua
+#, fuzzy
+msgid "invisible"
+msgstr "gözükmez"
+
+#: waypoints.lua
+#, fuzzy
+msgid "visible"
+msgstr "görünür"
+
+#. Translators: @1 toggles between 'visible' and 'invisible'.
+#: waypoints.lua
+#, fuzzy
+msgid "Make waypoint @1"
+msgstr "Konumlar @1"
+
+#: waypoints.lua
+#, fuzzy
+msgid "Disable"
+msgstr "gizle"
+
+#: waypoints.lua
+#, fuzzy
+msgid "Enable"
+msgstr "göster"
+
+#. Translators: @1 toggles between 'Enable' and 'Disable'.
+#: waypoints.lua
+#, fuzzy
+msgid "@1 display of waypoint coordinates"
+msgstr "Koordinatları @1"
+
+#: waypoints.lua
+msgid "Change color of waypoint display"
+msgstr "Konum Gösterge Rengi"
+
+#: waypoints.lua
+msgid "Edit waypoint name"
+msgstr "Konum Noktasını Düzenle"
+
+#: waypoints.lua
+msgid "Waypoint active"
+msgstr "Konum Etkin"
+
+#: waypoints.lua
+msgid "Waypoint inactive"
+msgstr "Konum Devredışı"
+
+#: waypoints.lua
+msgid "Finish editing"
+msgstr "Düzenleme bitti"
+
+#: waypoints.lua
+msgid "World position"
+msgstr "Dünya konumu"
+
+#: waypoints.lua
+msgid "Name"
+msgstr "İsim"
+
+#: waypoints.lua
+msgid "HUD text color"
+msgstr "Metin rengi"

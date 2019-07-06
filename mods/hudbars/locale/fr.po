@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-02 23:28+0200\n"
+"PO-Revision-Date: 2017-04-30 19:53+0200\n"
+"Last-Translator: fat115 <fat115@framasoft.org>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: init.lua
+#, fuzzy
+msgid "Invalid value for @1! Using default value (@2)."
+msgstr "Valeur invalide pour @1 ! Utilisation de la valeur par défaut (@2)."
+
+#: init.lua
+#, lua-format
+msgid "%s: %d/%d"
+msgstr "%s : %d/%d"
+
+#: init.lua
+#, fuzzy
+msgid "Bad initial values of HUD bar identifier “@1” for player @2. "
+msgstr "Mauvaises valeurs initiales pour l'identifiant HUD bar ““@1” pour le joueur @2. "
+
+#: init.lua
+#, fuzzy
+msgid "start_max (@1) is smaller than start_value (@2)!"
+msgstr "start_max (@1) est plus petit que start_value (@2)!"
+
+#: init.lua
+msgid ") is smaller than 0!"
+msgstr ") est plus petit que 0 !"
+
+#: init.lua
+#, fuzzy
+msgid "Bad call to hb.change_hudbar, identifier: “"
+msgstr "Mauvais appel de hb.change_hudbar, identifiant: “"
+
+#: init.lua
+msgid "”, player name: “"
+msgstr "”, nom du joueur : “"
+
+#: init.lua
+#, fuzzy
+msgid "new_max_value (@1) is smaller than new_value (@2)!"
+msgstr "new_max_value (@1) est plus petit que new_value (@2)!"
+
+#: init.lua
+msgid "Health"
+msgstr "Santé"
+
+#: init.lua
+msgid "Breath"
+msgstr "Air"

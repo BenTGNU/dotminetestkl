@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-04 15:23+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: init.lua
+#, lua-format
+msgid "%s (owned by %s)"
+msgstr ""
+
+#: init.lua
+msgid "Question"
+msgstr ""
+
+#: init.lua
+msgid "option1"
+msgstr ""
+
+#: init.lua
+msgid "option2"
+msgstr ""
+
+#: init.lua
+msgid "option3"
+msgstr ""
+
+#: init.lua
+msgid "option4"
+msgstr ""
+
+#: init.lua
+msgid "option5"
+msgstr ""
+
+#: init.lua
+msgid "Save"
+msgstr ""
+
+#: init.lua
+msgid "Submit"
+msgstr ""
+
+#: init.lua
+msgid "Close"
+msgstr ""
+
+#: init.lua
+msgid "Vote"
+msgstr ""
+
+#: init.lua
+msgid "This voting machine is not ready yet."
+msgstr ""
+
+#: init.lua
+msgid "Poll poster"
+msgstr ""
+
+#: init.lua
+#, lua-format
+msgid "Unconfigured Vote Box. (owned by %s)"
+msgstr ""
+
+#: init.lua
+msgid "Type your question here."
+msgstr ""

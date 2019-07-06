@@ -1,0 +1,7 @@
+Crafting = Fabrication
+All = Tout
+Nodes = Noeuds
+Tools = Outils
+Items = Objets
+Search = Chercher
+Reset = Réinitialiser

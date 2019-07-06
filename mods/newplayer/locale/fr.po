@@ -1,0 +1,246 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-14 07:59+0200\n"
+"PO-Revision-Date: 2017-05-14 08:17+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"Last-Translator: fat115 <fat115@framasoft.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#: init.lua
+msgid ""
+"Rules file not found!\n"
+"\n"
+"The file should be named \"newplayer-rules.txt\" and placed in the following "
+"location:\n"
+"\n"
+msgstr ""
+"Fichier de règles introuvable !\n"
+"\n"
+"Le fichier doit être nommé \"newplayer-rules.txt\" et placé à l'emplacement "
+"suivant :\n"
+"\n"
+
+#: init.lua
+msgid "Editing Server Rules"
+msgstr "Modification des règles du serveur"
+
+#: init.lua
+msgid "Save"
+msgstr "Enregistrer"
+
+#: init.lua
+msgid "Cancel"
+msgstr "Annuler"
+
+#: init.lua
+msgid "Server Rules"
+msgstr "Règles du serveur"
+
+#: init.lua
+msgid "I agree"
+msgstr "Accepter"
+
+#: init.lua
+msgid "I do not agree"
+msgstr "Refuser"
+
+#: init.lua
+msgid "Enter keyword from rules above:"
+msgstr "Saisissez le mot-clé indiqué dans les règles ci-dessus :"
+
+#: init.lua
+msgid "OK"
+msgstr "OK"
+
+#: init.lua
+msgid "Edit"
+msgstr "Modifier"
+
+#: init.lua
+msgid ""
+"BUILDING DISABLED\n"
+"You must agree to\n"
+"the rules before building!\n"
+"Use the /rules command\n"
+"to see them."
+msgstr ""
+"SIMPLE VISITE\n"
+"Vous devez accepter les règles.\n"
+"Tapez la commande /rules\n"
+"pour les consulter."
+
+#: init.lua
+msgid "Thank you for agreeing"
+msgstr "Merci d'avoir lu et accepté"
+
+#: init.lua
+msgid "to the rules!"
+msgstr "les règles !"
+
+#: init.lua
+msgid "Please, now follow this quiz"
+msgstr "Suivez maintenant le quiz"
+
+#: init.lua
+msgid "to go to the spawn."
+msgstr "pour vous rendre au spawn."
+
+#: init.lua
+msgid "Incorrect keyword!"
+msgstr "Mot-clé incorrect !"
+
+#: init.lua
+msgid "Try Again"
+msgstr "Réessayer"
+
+#: init.lua
+msgid "You may remain on the server,"
+msgstr "Vous pouvez visiter."
+
+#: init.lua
+msgid "but you may not dig or build"
+msgstr "Mais pour construire vous devez"
+
+#: init.lua
+msgid "until you agree to the rules."
+msgstr "accepter les règles."
+
+#: init.lua
+msgid "Rules/keyword updated."
+msgstr "Les règles/mots-clé ont été mis à jour."
+
+#: init.lua
+msgid "Success: "
+msgstr "Bravo : "
+
+#: init.lua
+msgid "You hacker you... nice try!"
+msgstr "Graine de pirate... bien essayé !"
+
+#: init.lua
+msgid "View the rules"
+msgstr "Consulter les règles"
+
+#: init.lua
+msgid "Edit the rules"
+msgstr "Modifier les règles"
+
+#: init.lua
+msgid ""
+"Set the spawn point for players without interact to your current position"
+msgstr ""
+"Définir à votre position, le point de départ pour les joueurs sans interact"
+
+#: init.lua
+msgid "Spawn point for players without interact set to: "
+msgstr ""
+"Le point de départ pour les joueurs n'ayant pas le privilège interact est "
+"désormais : "
+
+#: init.lua
+msgid "Set the spawn point for players with interact to your current position"
+msgstr ""
+"Définir à votre position, le point de départ pour les joueurs ayant interact"
+
+#: init.lua
+msgid "Spawn point for players with interact set to: "
+msgstr ""
+"Le point de départ pour les joueurs ayant le privilège interact est "
+"désormais : "
+
+#: init.lua
+msgid "Gets the list of keywords used to obtain the interact privilege"
+msgstr ""
+"Affiche la liste des mots-clé permettant d'obtenir le privilège interact"
+
+#: init.lua
+msgid "Currently configured keywords:"
+msgstr "Liste des mots-clé :"
+
+#: init.lua
+msgid "No keywords are currently set."
+msgstr "Aucun mot-clé n'est défini"
+
+#: init.lua
+msgid ""
+"Add a keyword to the list of keywords used to obtain the interact privilege"
+msgstr ""
+"Ajoute un mot à la liste de mots-clé permettant d'obtenir le privilège "
+"interact"
+
+#: init.lua
+msgid "ERROR: "
+msgstr "ERREUR : "
+
+#: init.lua
+msgid "No keyword supplied"
+msgstr "Aucun mot-clé saisi"
+
+#: init.lua
+#, lua-format
+msgid "Keyword \"%s\" added"
+msgstr "Le mot-clé \"%s\" a été ajouté"
+
+#: init.lua
+msgid ""
+"Remove a keyword from the list of keywords used to obtain the interact "
+"privilege"
+msgstr ""
+"Enlève un mot de la liste de mots-clé permettant d'obtenir le privilège "
+"interact"
+
+#: init.lua
+msgid " removed"
+msgstr " a été retiré"
+
+#: init.lua
+msgid "Keyword "
+msgstr "Le mot-clé "
+
+#: init.lua
+msgid " not found"
+msgstr " est introuvable"
+
+#: init.lua
+msgid "Teleport to the spawn"
+msgstr "Téléportation au spawn"
+
+#: init.lua
+msgid "Teleporting to spawn..."
+msgstr "Téléportation au spawn ..."
+
+#: init.lua
+msgid "The spawn point is not set!"
+msgstr "Le point de départ n'est pas défini !"
+
+#: init.lua
+msgid "In order to build,"
+msgstr "Pour pouvoir construire,"
+
+#: init.lua
+msgid "you must read and agree to the rules."
+msgstr "vous devez avoir lu et accepté les règles"
+
+#: init.lua
+msgid "View them now?"
+msgstr "Voulez vous les consulter maintenant ?"
+
+#: init.lua
+msgid "Yes"
+msgstr "Oui"
+
+#: init.lua
+msgid "No"
+msgstr "Non"

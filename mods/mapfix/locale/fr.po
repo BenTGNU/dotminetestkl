@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-04 10:54+0200\n"
+"PO-Revision-Date: 2017-08-04 10:55+0200\n"
+"Last-Translator: fat115 <fat115@framasoft.org>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: init.lua
+msgid "Recalculate the flowing liquids and the light of a chunk"
+msgstr "Recalcule les flux des liquides et la lumière d'une partie du monde"
+
+#: init.lua
+msgid "Radius is too big"
+msgstr "Rayon trop grand"
+
+#: init.lua
+msgid "You need the server privilege to exceed the radius of @1 blocks"
+msgstr "Vous devez avoir le privilège 'server' pour dépasser un rayon de @1 blocs"
+
+#: init.lua
+msgid "Wait at least @1 seconds from the previous \"/mapfix\"."
+msgstr "Attendez au moins @1 secondes entre deux \"/mapfix\"."
+
+#: init.lua
+msgid "@1 uses mapfix at @2 with radius @3"
+msgstr "@1 a utilisé mapfix en @2 avec un rayon de @3"
+
+#: init.lua
+msgid "Done."
+msgstr "Terminé"

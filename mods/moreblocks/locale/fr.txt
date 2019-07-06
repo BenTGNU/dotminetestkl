@@ -1,0 +1,86 @@
+﻿# Translation by Calinou
+# Update by Peppy (Nov 2016)
+# Update by fat115 (Aug 2017)
+
+###init.lua###
+[moreblocks] loaded. = [moreblocks] chargé.
+
+Jungle Wooden Planks = Planches en bois exotique
+Empty Bookshelf = Bibliothèque vide
+Clean Glass = Verre propre
+Plankstone = Pierre-bois
+Wooden Tile = Mosaïque de bois
+Full Wooden Tile = Mosaïque de bois (uniforme)
+Centered Wooden Tile = Mosaïque de bois (centré)
+Downwards Wooden Tile = Mosaïque de bois (bas)
+Leftwards Wooden Tile = Mosaïque de bois (gauche)
+Rightwards Wooden Tile = Mosaïque de bois (droite)
+Upwards Wooden Tile = Mosaïque de bois (haut)
+Circle Stone Bricks = Briques en pierre circulaires
+Stone Tile = Carreau en pierre
+Split Stone Tile = Carreau en pierre découpée
+Glow Glass = Verre brillant
+Super Glow Glass = Verre très brillant
+Coal Glass = Verre de charbon
+Iron Glass = Verre de fer
+Coal Checker = Damier en charbon
+Iron Checker = Damier en fer
+Trap Stone = Pierre traversable
+Trap Glass = Verre traversable
+Trap Glow Glass = Verre brillant traversable
+Trap Super Glow Glass = Verre très brillant traversable
+Coal Stone = Pierre de charbon
+Iron Stone = Pierre de fer
+Coal Stone Bricks = Briques en pierre de charbon
+Iron Stone Bricks = Briques en pierre de fer
+Cactus Checker = Damier en cactus
+Cactus Brick = Briques de cactus
+Sweeper = Balai
+Jungle Stick = Bâton en bois exotique
+Horizontal Tree = Tronc d'arbre horizontal
+Horizontal Jungle Tree = Tronc d'arbre exotique horizontal
+Rope = Corde
+All-faces Tree = Bloc de tronc d'arbre
+All-faces Jungle Tree = Bloc de tronc d'arbre exotique
+
+###redefinition.lua###
+Wooden = bois
+Papyrus = Papyrus
+Dry Shrub = Arbuste desséché
+Sapling = Pousse d'arbre
+Wooden Planks = Planches en bois
+Ladder = Échelle
+Glass = Verre
+
+###circular_saw.lua###
+Circular Saw = Scie circulaire
+Circular Saw, empty = Scie circulaire, vide
+Circular Saw is empty (owned by %s) = Scie circulaire vide (propriété de %s)
+Circular Saw is working on %s (owned by %s) = Scie circulaire, découpe %s (propriété de %s)
+
+Input\nmaterial = Matériau 
+Rest/microblocks = Reste/microbloc
+Max: = Max:
+Set = Fixer
+Recycle\noutput = Recyclage
+Left-over = Déchet
+
+###./stairsplus/*###
+%s Stairs = Escaliers en %s
+%s Slab = Dalle en %s
+%s Panel = Barre en %s
+%s Microblock = Microbloc en %s
+
+%s Pane = Panneau en %s
+%s Fence = Clôture en %s
+
+###ownership.lua###
+Sorry, %s owns that spot. = Désolé, cet endroit appartient à %s.
+someone = quelqu'un
+
+###nodes.lua###
+Copper Patina Block = Block de cuivre patiné
+Compressed Cobblestone = Pierres compressées
+Stone Bricks = Briques de pierre
+Checkered Stone Tile = Pierre en damier
+Tar = Goudron

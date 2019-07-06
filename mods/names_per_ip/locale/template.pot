@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-14 07:42+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions.lua
+msgid "All exceptions: @1"
+msgstr ""
+
+#: functions.lua
+msgid "The player '@1' did not join yet."
+msgstr ""
+
+#: functions.lua
+msgid "Following players share an IP: @1"
+msgstr ""
+
+#: functions.lua
+msgid "Added an exception!"
+msgstr ""
+
+#: functions.lua
+msgid "The player '@1' is not on the whitelist."
+msgstr ""
+
+#: functions.lua
+msgid "Removed an exception!"
+msgstr ""
+
+#: init.lua
+msgid "Get the features of names_per_ip"
+msgstr ""
+
+#: init.lua
+msgid "Available commands: "
+msgstr ""
+
+#: init.lua
+msgid "Get all accounts of <name>: /ipnames whois <name>"
+msgstr ""
+
+#: init.lua
+msgid "List all exceptions:        /ipnames list"
+msgstr ""
+
+#: init.lua
+msgid "Remove/add an exception:    /ipnames (un)ignore <name>"
+msgstr ""
+
+#: init.lua
+msgid "Error: Please check again '/ipnames' for correct usage."
+msgstr ""
+
+#: init.lua
+msgid "Error: No known argument for #1 '"
+msgstr ""
+
+#: init.lua
+msgid ""
+"\n"
+"You exceeded the limit of accounts.\n"
+"You already own the following accounts:\n"
+msgstr ""

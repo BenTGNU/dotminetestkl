@@ -1,0 +1,2 @@
+softtouch
+a mod for minetest for easily "punch activating" nodes in creative

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Framadmin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-25 14:50+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Peppy <peppy@twang-factory.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+
+#: chatcommands.lua:10
+msgid "Sends player to the quiz or yourself if run without arguments"
+msgstr "Envoie le joueur spécifie au quiz, ou soi même si lancé sans arguments"
+
+#: chatcommands.lua:21
+#, lua-format
+msgid "Teleporting %s to quiz"
+msgstr "Téléportation de %s au quiz"
+
+#: chatcommands.lua:23
+#, lua-format
+msgid "Player %s could not be found"
+msgstr "Le joueur %s n'a pas été trouvé"
+
+#: chatcommands.lua:30
+msgid "List players on the server"
+msgstr "Affiche la liste des joueurs connectés"
+
+#: chatcommands.lua:49
+msgid "townhall"
+msgstr "mairie"
+
+#: chatcommands.lua:50
+msgid "Sends you to the townhall"
+msgstr "Vous envoie à la mairie"
+
+#: chatcommands.lua:58
+msgid "town"
+msgstr "ville"
+
+#: chatcommands.lua:59
+msgid "Sends you to the town"
+msgstr "Vous envoie en ville"
+
+#: init.lua:10
+msgid "Can use lava."
+msgstr "Peut utiliser la lave."
+
+#: init.lua:12
+msgid "Can use carts."
+msgstr "Peut utiliser les pistes de carts"
+
+#: nodes.lua:6
+msgid "Info block"
+msgstr "Bloc d'info"
+
+#: nodes.lua:20
+msgid "Enter zone name"
+msgstr "Saisissez le nom de la zone"
+
+#: nodes.lua:21
+msgid "Right-click to define zone name"
+msgstr "Clic-droit pour définir le nom de la zone"
+
+#: nodes.lua:22
+msgid "My zone"
+msgstr "Ma zone"
+
+#: nodes.lua:31
+#, lua-format
+msgid "Welcome to %s zone !"
+msgstr "Bienvenue dans la zone %s !"

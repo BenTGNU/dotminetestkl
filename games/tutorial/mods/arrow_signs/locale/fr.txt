@@ -1,0 +1,31 @@
+# Nodes
+upwards-pointing sign = panneau d'indication en haut
+downwards-pointing sign = panneau d'indication en bas
+leftwards-pointing sign = panneau d'indication à gauche
+rightwards-pointing sign = panneau d'indication à droite
+
+# Captions
+Ladders section = Section échelles
+Swimming and Diving sections = Section nage et plongée
+To the Diving section = Vers la section plongée
+Diving section = Section plongée
+Pointing section = Section pointage
+Mining section, Building section (prerequisites: Item and Tools
+section) = Section minage, section construction (prérequis: Section
+objets et outils)
+Tutorial Mine (just for fun) =  Tutoriel de minage (juste pour s'amuser)
+Special Blocks section = Section blocs spéciaux
+To the Using section = Vers la section utilisation
+To the Items, Tools, Crafting and Smelting house = Vers les objets, outils,
+fabrication et chambre de fusion
+The Items, Tools, Crafting and Smelting house = Les objets, outils,
+fabrication et chambre de fusion
+Waterfall section = Section cascade
+Swimming section, Ladders section = Section nage, section échelles
+Sneaking section = Section faufilage
+Health and Damage section = Section santé et dégats
+Viscosity section = Section viscosité
+The Good-Bye Room = Chambre des aux revoirs
+Exit = Sortie
+Comestibles room = Chambre des aliments
+Smelting room = Chambre de la fusion

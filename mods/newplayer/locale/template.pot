@@ -1,0 +1,225 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-14 07:58+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: init.lua
+msgid ""
+"Rules file not found!\n"
+"\n"
+"The file should be named \"newplayer-rules.txt\" and placed in the following "
+"location:\n"
+"\n"
+msgstr ""
+
+#: init.lua
+msgid "Editing Server Rules"
+msgstr ""
+
+#: init.lua
+msgid "Save"
+msgstr ""
+
+#: init.lua
+msgid "Cancel"
+msgstr ""
+
+#: init.lua
+msgid "Server Rules"
+msgstr ""
+
+#: init.lua
+msgid "I agree"
+msgstr ""
+
+#: init.lua
+msgid "I do not agree"
+msgstr ""
+
+#: init.lua
+msgid "Enter keyword from rules above:"
+msgstr ""
+
+#: init.lua
+msgid "OK"
+msgstr ""
+
+#: init.lua
+msgid "Edit"
+msgstr ""
+
+#: init.lua
+msgid ""
+"BUILDING DISABLED\n"
+"You must agree to\n"
+"the rules before building!\n"
+"Use the /rules command\n"
+"to see them."
+msgstr ""
+
+#: init.lua
+msgid "Thank you for agreeing"
+msgstr ""
+
+#: init.lua
+msgid "to the rules!"
+msgstr ""
+
+#: init.lua
+msgid "Please, now follow this quiz"
+msgstr ""
+
+#: init.lua
+msgid "to go to the spawn."
+msgstr ""
+
+#: init.lua
+msgid "Incorrect keyword!"
+msgstr ""
+
+#: init.lua
+msgid "Try Again"
+msgstr ""
+
+#: init.lua
+msgid "You may remain on the server,"
+msgstr ""
+
+#: init.lua
+msgid "but you may not dig or build"
+msgstr ""
+
+#: init.lua
+msgid "until you agree to the rules."
+msgstr ""
+
+#: init.lua
+msgid "Rules/keyword updated."
+msgstr ""
+
+#: init.lua
+msgid "Success: "
+msgstr ""
+
+#: init.lua
+msgid "You hacker you... nice try!"
+msgstr ""
+
+#: init.lua
+msgid "View the rules"
+msgstr ""
+
+#: init.lua
+msgid "Edit the rules"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Set the spawn point for players without interact to your current position"
+msgstr ""
+
+#: init.lua
+msgid "Spawn point for players without interact set to: "
+msgstr ""
+
+#: init.lua
+msgid "Set the spawn point for players with interact to your current position"
+msgstr ""
+
+#: init.lua
+msgid "Spawn point for players with interact set to: "
+msgstr ""
+
+#: init.lua
+msgid "Gets the list of keywords used to obtain the interact privilege"
+msgstr ""
+
+#: init.lua
+msgid "Currently configured keywords:"
+msgstr ""
+
+#: init.lua
+msgid "No keywords are currently set."
+msgstr ""
+
+#: init.lua
+msgid ""
+"Add a keyword to the list of keywords used to obtain the interact privilege"
+msgstr ""
+
+#: init.lua
+msgid "ERROR: "
+msgstr ""
+
+#: init.lua
+msgid "No keyword supplied"
+msgstr ""
+
+#: init.lua
+#, lua-format
+msgid "Keyword \"%s\" added"
+msgstr ""
+
+#: init.lua
+msgid ""
+"Remove a keyword from the list of keywords used to obtain the interact "
+"privilege"
+msgstr ""
+
+#: init.lua
+msgid " removed"
+msgstr ""
+
+#: init.lua
+msgid "Keyword "
+msgstr ""
+
+#: init.lua
+msgid " not found"
+msgstr ""
+
+#: init.lua
+msgid "Teleport to the spawn"
+msgstr ""
+
+#: init.lua
+msgid "Teleporting to spawn..."
+msgstr ""
+
+#: init.lua
+msgid "The spawn point is not set!"
+msgstr ""
+
+#: init.lua
+msgid "In order to build,"
+msgstr ""
+
+#: init.lua
+msgid "you must read and agree to the rules."
+msgstr ""
+
+#: init.lua
+msgid "View them now?"
+msgstr ""
+
+#: init.lua
+msgid "Yes"
+msgstr ""
+
+#: init.lua
+msgid "No"
+msgstr ""
